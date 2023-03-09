@@ -1,2 +1,2 @@
 # calculator
-bulding calculator application with node js
+bulding calculator application with vanilla js
